@@ -4,7 +4,7 @@
 
 <template>
   <main>
-    <h1 class="text-red-500">HELLO WORLD</h1>
+    <h1 class="text-red-500">HELLO WORLDp</h1>
   </main>
    
 </template>
